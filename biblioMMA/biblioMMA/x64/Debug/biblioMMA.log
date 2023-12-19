@@ -1,0 +1,9 @@
+﻿  MyForm.cpp
+MyForm.resx : warning MSB3568: Имя дублированного ресурса ">>ID.Name" не разрешено, игнорируется.
+MyForm.resx : warning MSB3568: Имя дублированного ресурса "Author.HeaderText" не разрешено, игнорируется.
+MyForm.resx : warning MSB3568: Имя дублированного ресурса ">>ID.Type" не разрешено, игнорируется.
+MyForm.resx : warning MSB3568: Имя дублированного ресурса ">>Author.Name" не разрешено, игнорируется.
+MyForm.resx : warning MSB3568: Имя дублированного ресурса "id.HeaderText" не разрешено, игнорируется.
+MyForm.resx : warning MSB3568: Имя дублированного ресурса ">>author.Type" не разрешено, игнорируется.
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  biblioMMA.vcxproj -> C:\Users\dmit2\source\repos\biblioMMA\x64\Debug\biblioMMA.exe

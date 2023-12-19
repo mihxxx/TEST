@@ -1,0 +1,4 @@
+C:\Users\dmit2\source\repos\biblioMMA\biblioMMA\x64\Debug\biblioMMA.vcxproj.AssemblyReference.cache
+C:\Users\dmit2\source\repos\biblioMMA\biblioMMA\x64\Debug\biblioMMA.MyForm.resources
+C:\Users\dmit2\source\repos\biblioMMA\biblioMMA\x64\Debug\biblioMMA.MyForm.ru.resources
+C:\Users\dmit2\source\repos\biblioMMA\biblioMMA\x64\Debug\biblioMMA.vcxproj.GenerateResource.cache
